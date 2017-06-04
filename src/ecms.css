@@ -1,0 +1,5 @@
+.bullet, .collapsed, .expanded { font-size: 0.8 em; padding: 1px; }
+.bullet { font-weight: normal; }
+.collapsed { background-color: #CCCCCC; font-weight: bold; }
+.expanded { font-weight: bold; }
+
